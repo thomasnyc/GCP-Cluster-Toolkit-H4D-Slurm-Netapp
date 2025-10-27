@@ -14,7 +14,7 @@
 ---
 blueprint_name: netapp-h4d
 vars:
-  project_id: thomashk-mig ## Set GCP Project ID Here ##
+  project_id:  ## Set GCP Project ID Here ##
   deployment_name: netapp-h4d
   region: us-central1
   zone: us-central1-a
