@@ -1,7 +1,8 @@
-# GCP-Cluster-Toolkit-H4D-Slurm-Netapp
-Goolge Cloud Platform - Cluster Toolkit deployment with H4D, Slurm and Netapp
+# GCP-Cluster-Toolkit-H4D-Slurm-GCNV 
+Goolge Cloud Platform - Cluster Toolkit deployment with H4D, Slurm and Google Cloud NetApp Volumes
 
 Reference:
+https://cloud.google.com/netapp/volumes/docs/discover/overview
 https://github.com/GoogleCloudPlatform/cluster-toolkit
 PR: https://github.com/GoogleCloudPlatform/cluster-toolkit/pull/4583
 
